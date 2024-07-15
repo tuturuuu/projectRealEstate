@@ -130,9 +130,8 @@
     </div>
   </div><!-- End Property Search Section -->>
 
-  <?php
-    include_once('nav.inc.php')
-  ?>
+  <?php include_once 'nav.inc'; ?>
+
 
   <main id="main">
 
